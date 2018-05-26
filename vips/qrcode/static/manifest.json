@@ -1,6 +1,6 @@
 {
-  "name": "vips-wallet",
-  "short_name": "vips-wallet",
+  "name": "vips-qrcode-generator",
+  "short_name": "vips-qr",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
@@ -13,8 +13,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "theme_color": "#ffd600"
 }
